@@ -1,1 +1,60 @@
 
+
+
+
+body {
+	background-color: grey;
+	color: blue;
+}
+
+p {
+	color: blue;
+	font-family: Arial;
+}
+
+#diceContainer {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+#firstDie{
+	background-color: white;
+	display: block;
+	margin-right: 10px;
+	width: auto;
+	height: auto;
+	max-width: 225px;
+	max-height: 275px;
+	padding-left: 5%;
+	padding-right: 5%;
+	border-radius: 15px;
+	text-align: center;
+	float: left;
+}	
+
+#secondDie {
+	background-color: yellow;
+	display: block;
+	margin-left: 10px;
+	width: auto;
+	height: auto;
+	max-width: 225px;
+	max-height: 275px;
+	padding-left: 5%;
+	padding-right: 5%;
+	border-radius: 15px;
+	text-align: center;
+	float: right;
+	
+}
+
+#footer {
+	clear: both;
+	display: block;
+	text-align: center;
+
+}
+
+
+
